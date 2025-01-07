@@ -3,6 +3,10 @@
 ## Disclaimer
 Всё нижеописанное приминяйте на свой страх и риск
 
+## Оглавление
+1. [Android](#Android)
+2. [Linux](#Linux)
+
 ## Android
 Скачиваем и устанавливаем ByeDpiAndroid, всё будет завязано именно на нём  
 https://github.com/dovecoteescapee/ByeDPIAndroid/releases  
@@ -30,8 +34,8 @@ https://github.com/dovecoteescapee/ByeDPIAndroid/releases
 ### Discord
 5. Use command line settings -> OFF
 6. UI editor
-7. Ставим настройки как показано в видео:
-   ![](media/byedpi-android-discord.mp4)
+7. Ставим настройки как показано на снимках:  
+   ![](media/bdad-1.png)![](media/bdad-2.png)![](media/bdad-3.png)
 
 ## Windows
 Самый легкий метод описан тут  
