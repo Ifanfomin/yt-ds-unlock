@@ -31,7 +31,7 @@ https://github.com/dovecoteescapee/ByeDPIAndroid/releases
 5. Use command line settings -> OFF
 6. UI editor
 7. Ставим настройки как показано в видео:
-
+   ![](media/byedpi-android-discord.mp4)
 
 ## Windows
 Самый легкий метод описан тут  
