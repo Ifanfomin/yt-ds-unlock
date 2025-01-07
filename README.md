@@ -5,7 +5,8 @@
 
 ## Оглавление
 1. [Android](#Android)
-2. [Linux](#Linux)
+3. [Windows](#Windows)
+4. [Linux](#Linux)
 
 ## Android
 Скачиваем и устанавливаем ByeDpiAndroid, всё будет завязано именно на нём  
