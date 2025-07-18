@@ -16,7 +16,7 @@ https://github.com/dovecoteescapee/ByeDPIAndroid/releases
 1. Заходим в настройки (значек шестерёнок)
 2. Ставим Mode -> VPN
 3. DNS -> 8.8.8.8
-4. IPv6 -> ON
+4. IPv6 -> OFF
 
 ### Youtube
 5. Use command line settings -> ON
