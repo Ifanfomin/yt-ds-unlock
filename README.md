@@ -7,6 +7,7 @@
 1. [Android](#Android)
 3. [Windows](#Windows)
 4. [Linux](#Linux)
+5. [IPhone](#IPhone)
 
 ## Android
 Скачиваем и устанавливаем ByeDpiAndroid, всё будет завязано именно на нём  
@@ -67,3 +68,31 @@ https://github.com/maximilionus/byedpictl
   
 Если не сработает, то возможно найдётся ответ в следующей ссылке  
 https://github.com/hufrea/byedpi/discussions/195
+
+## IPhone
+Арендуем сервер в другой стране, например на hostvds.com за 1 доллар, нам понадобится адрес сервера и root пароль  
+Теперь что нужно сделать на IPhone:  
+
+Скачать эту прогу в аппстор:   https://apps.apple.com/ru/app/http-injector/id1659992827  
+
+Дальше её настройка:  
+
+Нажимаешь на V2Ray/Xray кнопку, она под кнопкой start  
+
+Дальше на текст под Tunnel Type (V2Ray/X-ray) и выбираешь Secure shell (ssh)  
+
+Дальше на текст под Connect From (TLS/SSL (Stunnel) и выбираешь None (Direct)  
+
+Дальше нажимаешь Save  
+
+Теперь на шестерёнку сверху  
+
+Потом на Secure Shell (SSH)  
+
+Дальше на SSH Host и вводишь: адрес сервера (четыре числа от 0 до 255 через точку)
+
+Дальше на SSH Port и вводишь: 22
+
+Дальше на Username и вводишь: root
+
+Дальше на Password/Passphrase и вводишь: пароль от root
