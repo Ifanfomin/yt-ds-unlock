@@ -96,3 +96,5 @@ https://github.com/hufrea/byedpi/discussions/195
 Дальше на Username и вводишь: root
 
 Дальше на Password/Passphrase и вводишь: пароль от root
+
+Теперь нажимает старт в главном окне и даём разрешение на подключение 
